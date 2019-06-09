@@ -7,7 +7,7 @@ image_resource:
     tag: latest
 
 inputs: 
-  - name: hellp_hapi
+  - name: hello_hapi
   - name: dependency-cache
 
 run:
